@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 -->
 
  <div>
-<!--   <a href="https://github.com/gabrielsaraivam"> -->
+<!--   <a href="https://github.com/pedrorosari"> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrorosari&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosari&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosari&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Saraiva-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Saraiva-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Saraiva-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Saraiva-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Saraiva-Gif" height="150" width="150" src="https://i.picasion.com/pic91/d44fcc8ed8f8408992e995773312dd2a.gif">
+  <img align="center" alt="-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="right" alt="-Gif" height="150" width="150" src="https://i.picasion.com/pic91/d44fcc8ed8f8408992e995773312dd2a.gif">
 </div>
   
 ##

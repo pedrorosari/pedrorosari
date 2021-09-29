@@ -13,7 +13,7 @@
   <img align="center" alt="-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="-Gif" height="150" width="150" src="https://i.picasion.com/pic91/d44fcc8ed8f8408992e995773312dd2a.gif">
 </div>
-
+##
 <div> 
   <a href="https://instagram.com/pedro.rosari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pepefdn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
